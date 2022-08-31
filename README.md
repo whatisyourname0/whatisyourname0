@@ -1,5 +1,5 @@
 <div align="center">
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="600" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"></a></p>
+<img align="center" alt="Programming GIF" src="https://user-images.githubusercontent.com/66632117/187598455-391ac427-1eb7-4731-baad-daaabcf29019.gif" width="50%" height="50%" />
 </div>
 
 ## Hi! (☞ ﾟヮﾟ)☞ My name is June, What is your name?
@@ -8,11 +8,12 @@
 
 # **_TL;DR_**<br/>
 
-- 💻 Front-end Engineer, but other kkills included.
+- 💻 Front-end Engineer, but other skills included.
 - 💼 Any Work or Inquiries? Reach me, [email](mailto:mynameisjune111@gmail.com) <br/>
 - 📝 My Personal Blog : [https://0xffffffff.tistory.com/](https://0xffffffff.tistory.com/)
 
-👋Welcome to my personal Github Repository! <br/>
+👋<br/>
+Welcome to my personal Github Repository! <br/>
 My real name is Joon Ho Lee, and I live in Seoul, Korea, and undergraduate student in Yonsei University. My Career goal is to be an expert in Web Programming & front-end engineering, but my ultimate end is to be an end-to-end programmer. <br />
 My major is EEE, and I did my studies and projects in various languages. You can check out other repos I built! <br />
 I am truly self-motivated, and I expanded and will expand my limits in every way I can take, and possibilities I can enjoy and immerse. <br />
