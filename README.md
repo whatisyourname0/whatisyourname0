@@ -22,6 +22,9 @@ I do my best for myself and my clients, and I can provide the best for those who
 Thank you :) <br />
 <br/>
 
+<br /><br />
+I'm currently a member in GDSC yonsei
+
 ---
 
 <br />
