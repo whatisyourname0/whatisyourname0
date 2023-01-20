@@ -10,7 +10,9 @@
 
 - 💻 Front-end Engineer, but other skills included.
 - 💼 Any Work or Inquiries? Reach me, [email](mailto:mynameisjune111@gmail.com) <br/>
-- 📝 My Personal Blog : [https://0xffffffff.tistory.com/](https://0xffffffff.tistory.com/)
+- 📝 Website of mine : [https://joonho.app](https://joonho.app)
+- 📄 Brief CV : [https://joonho.app/CV](https://joonho.app/CV)
+- 😊 My Personal Blog : [https://0xffffffff.tistory.com/](https://0xffffffff.tistory.com/)
 
 👋<br/>
 Welcome to my personal Github Repository! <br/>
@@ -23,7 +25,7 @@ Thank you :) <br />
 <br/>
 
 <br /><br />
-I'm currently a member in GDSC yonsei
+Currently a member in GDSC yonsei.
 
 ---
 
