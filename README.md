@@ -2,7 +2,7 @@
 <img align="center" alt="Programming GIF" src="https://user-images.githubusercontent.com/66632117/187598455-391ac427-1eb7-4731-baad-daaabcf29019.gif" width="50%" height="50%" />
 </div>
 
-## Hi! (☞ ﾟヮﾟ)☞ My name is June, What is your name?
+## Hi! ლ(´ڡ`ლ) My name is June, What is your name?
 
 <br />
 
