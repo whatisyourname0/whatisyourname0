@@ -24,8 +24,7 @@ I do my best for myself and my clients, and I can provide the best for those who
 Thank you :) <br />
 <br/>
 
-<br /><br />
-Currently a member in GDSC yonsei.
+Currently working for [Whatssub.co (왓섭!)](https://https://whatssub.co/)
 
 ---
 
