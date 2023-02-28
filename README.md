@@ -24,7 +24,7 @@ I do my best for myself and my clients, and I can provide the best for those who
 Thank you :) <br />
 <br/>
 
-Currently working for [Whatssub.co (왓섭!)](https://https://whatssub.co/)
+Currently working for [Whatssub.co (왓섭!)](https://whatssub.co/)
 
 ---
 
