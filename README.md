@@ -11,7 +11,6 @@
 - 💻 Front-end Engineer, but other skills included.
 - 💼 Any Work or Inquiries? Reach me, [email](mailto:mynameisjune111@gmail.com) <br/>
 - 📝 Website of mine : [https://joonho.dev](https://joonho.dev)
-- 📄 Brief CV : [https://joonho.dev/CV](https://joonho.dev/CV)
 - 😊 My Personal Blog : [https://0xffffffff.tistory.com/](https://0xffffffff.tistory.com/)
 
 👋<br/>
