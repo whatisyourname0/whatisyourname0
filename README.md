@@ -25,12 +25,3 @@ Thank you :) <br />
 
 Currently working for [Whatssub.co (왓섭!)](https://whatssub.co/)
 
----
-
-<br />
-
-## Check my Github Stats!
-
-<br/>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=whatisyourname0&show_icons=true&theme=gotham" alt="Github Stats" />
